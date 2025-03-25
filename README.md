@@ -5,11 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nedyalkovgeorgiev&label=Profile%20views&color=0e75b6&style=flat" alt="nedyalkovgeorgiev" /> </p>
 
-- 🌱 I’m currently learning **C/C++**
+- 🌱 I’m currently learning **Informatics**
 
 - 👨‍💻 All the information about me is available at [https://www.linkedin.com/in/georgi-georgiev-288874210/](https://www.linkedin.com/in/georgi-georgiev-288874210/)
-
-- 💬 Ask me about **Windows, Visual Studio**
 
 - 📫 How to reach me **g.nedyalkov@outlook.com**
 
